@@ -1,0 +1,19 @@
+# Ignore raw data
+data/**/*.csv
+data/**/*.csv.gz
+
+# Ignore outputs and intermediate files
+output/
+
+# Ignore SQLite or other DB files (if used)
+*.db
+
+# Ignore Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore system/macOS files
+.DS_Store
