@@ -1,4 +1,8 @@
---
+
+- Airbnb Data Pipeline Schema
+-- Author: Bruno Ramos
+-- Source data from multiple cities (used for trend analysis, pricing, reviews)
+
 -- PostgreSQL database dump
 --
 
